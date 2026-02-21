@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Oumaima 👋
+  Hi, I'm Oumaima 
 </h1>
 
 <p align="center">
@@ -51,13 +51,7 @@ I combine **logic + creativity** to build clean and functional code.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfoudeoumaima-ui&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoudeoumaima-ui&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
----
 
 <p align="center">
   ✨ <i>"I'm ready to learn, create, and work on meaningful projects!"</i>
