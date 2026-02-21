@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Creative+Girl+Loving+Coding;Building+Fun+&+Professional+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Ready+to+Work+on+Real+Projects;Combining+Creativity+&+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,13 +15,12 @@
 ---
 
 ## ✨ About Me
-💡 I'm a **student developer** passionate about creativity and coding.  
-I love building projects that are **clean, functional, and a bit playful**.  
+💡 I'm a **motivated and creative developer** looking for opportunities to work on **real projects**.  
+I combine **logic + creativity** to build clean and functional code.  
 
-- 💻 Interested in **Full-Stack Development**  
-- 🧠 Learning **PHP, JavaScript, MySQL, and modern frameworks**  
-- ✨ Bringing **creative ideas** into code  
-- 🌱 Always improving step by step  
+- 💻 Focused on **Full-Stack Development**  
+- 🧠 Learning **modern web technologies**  
+- 🚀 Ready to **contribute and grow professionally**  
 
 ---
 
@@ -40,16 +39,15 @@ I love building projects that are **clean, functional, and a bit playful**.
 
 ## 📚 Currently Learning
 - Advanced **PHP & PDO**  
-- **OOP, MVC, and Clean Code**   
-- Building **real-world projects** for full-stack experience  
+- **OOP, MVC, and Clean Code**  
+- Building **real-world projects**  
 
 ---
 
-## 🎯 Goals
-🚀 Become a **Full-Stack Developer**  
-🧩 Build **professional and creative projects**  
-🎓 Join a programming-focused school  
-🌍 Combine **creativity + code**  
+## 🎯 My Goals
+✅ Work on **professional projects**  
+✅ Become a **Full-Stack Developer**  
+✅ Combine **creativity + code** to deliver **impactful solutions**  
 
 ---
 
@@ -62,5 +60,5 @@ I love building projects that are **clean, functional, and a bit playful**.
 ---
 
 <p align="center">
-  ✨ <i>"Creativity + Code = Endless Possibilities"</i>
+  ✨ <i>"I'm ready to learn, create, and work on meaningful projects!"</i>
 </p>
