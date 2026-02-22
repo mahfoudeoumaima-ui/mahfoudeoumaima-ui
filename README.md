@@ -20,7 +20,28 @@ I combine **logic + creativity** to build clean and functional code.
 
 - 💻 Focused on **Full-Stack Development**  
 - 🧠 Learning **modern web technologies**  
-- 🚀 Ready to **contribute and grow professionally**  
+- 🚀 Ready to **contribute and grow professionally**
+  ---
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
+---
+
+### 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:mahfoudeoumaima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.linkedin.com/in/oumaima-mahfoude-aa7b95397">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/mahfou.de?igsh=dmRncXdpbjEwMHYx">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+</p>
 
 ---
 
