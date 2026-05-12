@@ -22,7 +22,7 @@ I combine **logic + creativity** to build clean and functional code.
 - 💻 Focused on **Full-Stack Development**  
 - 🧠 Learning **modern web technologies**  
 - 🚀 Ready to **contribute and grow professionally**
-                 🤖 🧠 ☁️ 🚀
+                 
   ---
 
 <div align="center">
