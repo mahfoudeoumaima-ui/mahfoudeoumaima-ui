@@ -10,7 +10,7 @@
   🌱 Morocco | Aspiring Full-Stack Developer<br>
   💌 <a href="mailto:mhfoudeoumima@gmail.com">mhfoudeoumima@gmail.com</a><br>
   🔗 <a href="https://github.com/mahfoudeoumaima-ui">GitHub Profile</a> <br>
-      <a href="https://mahfoudeoumaima-ui.github.io/PROTOFIL/">PROTOFIL</a>
+  👩‍💻 <a href="https://mahfoudeoumaima-ui.github.io/PROTOFIL/">PROTOFIL</a>
 </p>
 
 ---
@@ -22,6 +22,7 @@ I combine **logic + creativity** to build clean and functional code.
 - 💻 Focused on **Full-Stack Development**  
 - 🧠 Learning **modern web technologies**  
 - 🚀 Ready to **contribute and grow professionally**
+                 🤖 🧠 ☁️ 🚀
   ---
 
 <div align="center">
