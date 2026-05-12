@@ -9,7 +9,7 @@
 <p align="center">
   🌱 Morocco | Aspiring Full-Stack Developer<br>
   💌 <a href="mailto:mhfoudeoumima@gmail.com">mhfoudeoumima@gmail.com</a><br>
-  🔗 <a href="https://github.com/mahfoudeoumaima-ui">GitHub Profile</a>
+  🔗 <a href="https://github.com/mahfoudeoumaima-ui">GitHub Profile</a> <br>
       <a href="https://mahfoudeoumaima-ui.github.io/PROTOFIL/">PROTOFIL</a>
 </p>
 
